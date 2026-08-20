@@ -1,7 +1,7 @@
 # Sistem Informasi Perpustakaan Pendidikan
 
 Aplikasi web perpustakaan berbasis PHP native (tanpa framework) dengan tiga level akses pengguna: **Admin**, **Petugas**, dan **User (Siswa/Anggota)**.
-
+WIREFRAME/MOCKUP UI,UX DESIGN (USER EXPERINCE),FLOWCHART / USERFLOW,ERD & BASIS data :  https://despitaviantika.github.io/mockup/
 ## 📁 Struktur Folder
 
 ```
